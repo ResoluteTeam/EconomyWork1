@@ -1,0 +1,9 @@
+C:\Projects\Zinchuk\Economy\Lab 1\Visual\Work_1\Work_1\bin\Debug\Work_1.exe.config
+C:\Projects\Zinchuk\Economy\Lab 1\Visual\Work_1\Work_1\bin\Debug\Work_1.exe
+C:\Projects\Zinchuk\Economy\Lab 1\Visual\Work_1\Work_1\bin\Debug\Work_1.pdb
+C:\Projects\Zinchuk\Economy\Lab 1\Visual\Work_1\Work_1\obj\Debug\Work_1.csprojResolveAssemblyReference.cache
+C:\Projects\Zinchuk\Economy\Lab 1\Visual\Work_1\Work_1\obj\Debug\Work_1.Form1.resources
+C:\Projects\Zinchuk\Economy\Lab 1\Visual\Work_1\Work_1\obj\Debug\Work_1.Properties.Resources.resources
+C:\Projects\Zinchuk\Economy\Lab 1\Visual\Work_1\Work_1\obj\Debug\Work_1.csproj.GenerateResource.Cache
+C:\Projects\Zinchuk\Economy\Lab 1\Visual\Work_1\Work_1\obj\Debug\Work_1.exe
+C:\Projects\Zinchuk\Economy\Lab 1\Visual\Work_1\Work_1\obj\Debug\Work_1.pdb
